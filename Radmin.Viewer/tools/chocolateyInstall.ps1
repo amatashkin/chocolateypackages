@@ -1,2 +1,2 @@
-﻿Install-ChocolateyPackage 'Radmin.Viewer' 'msi' '/quiet' 'http://www.radmin.ru/download/rview34ru.msi' -validExitCodes @(0)
+﻿Install-ChocolateyPackage 'Radmin.Viewer' 'msi' '/quiet' 'http://www.radmin.com/download/rview34.msi' -validExitCodes @(0)
  
