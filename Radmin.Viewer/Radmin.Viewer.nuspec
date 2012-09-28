@@ -1,0 +1,26 @@
+<?xml version="1.0"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2010/07/nuspec.xsd">
+  <metadata>
+    <id>Radmin.Viewer</id>
+    <title>Radmin Viewer</title>
+    <version>3.4</version>
+    <authors>Famatech</authors>
+    <owners>Alexey Matashkin</owners>
+    <summary>Radmin 3 Remote Control Software - Radmin Viewer</summary>
+    <description>Radmin is one of the safest, fastest and most popular remote access software solutions designed for Windows.</description>
+    <projectUrl>http://www.radmin.ru/products/radmin/</projectUrl>
+    <tags>Radmin Viewer remote control admin</tags>
+    <copyright></copyright>
+    <licenseUrl>http://www.radmin.ru/about/legal/index.php</licenseUrl>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <iconUrl>http://www.radmin.ru/images/icons/ra_viewer.gif</iconUrl>
+    <!--<dependencies>
+      <dependency id="" version="" />
+    </dependencies>-->
+    <releaseNotes></releaseNotes>
+  </metadata>
+  <files>
+    <file src="tools\**" target="tools" />
+    <!--<file src="content\**" target="content" />-->
+  </files>
+</package>
