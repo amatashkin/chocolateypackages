@@ -1,0 +1,26 @@
+<?xml version="1.0"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2010/07/nuspec.xsd">
+  <metadata>
+    <id>Monosnap</id>
+    <title>Monosnap</title>
+    <version>1.2.0.0</version>
+    <authors>Monosnap</authors>
+    <owners>Alexey Matashkin</owners>
+    <summary>Monosnap</summary>
+    <description>Monosnap</description>
+    <projectUrl>http://monosnap.com</projectUrl>
+    <tags>Monosnap screenshot</tags>
+    <copyright></copyright>
+    <licenseUrl>http://en.wikipedia.org/wiki/Freeware</licenseUrl>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <!--<iconUrl>https://github.com/amatashkin/ChocolateyPackages/raw/master/Monosnap/Monosnap.gif</iconUrl>-->
+    <!--<dependencies>
+      <dependency id="" version="" />
+    </dependencies>-->
+    <releaseNotes></releaseNotes>
+  </metadata>
+  <files>
+    <file src="tools\**" target="tools" />
+    <!--<file src="content\**" target="content" />-->
+  </files>
+</package>
