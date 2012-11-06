@@ -3,14 +3,29 @@
   <metadata>
     <id>Monosnap</id>
     <title>Monosnap</title>
-    <version>1.2.0.0</version>
+    <version>1.2.1.0</version>
     <authors>Monosnap</authors>
     <owners>Alexey Matashkin</owners>
-    <summary>Monosnap</summary>
-    <description>Monosnap</description>
+    <summary>Monosnap is a perfect screenshot tool for Windows</summary>
+    <description>Monosnap is a perfect screenshot tool for Windows
+
+      Capture:
+      - Capture full screen, just part of the screen, or a selected window
+      - Make your crop area pixel perfect with our 8x magnifier
+      - Customize screenshoting hotkeys
+      
+      Annotate and Edit:
+      - Highlight important details with pen, text, arrows and shapes
+      - Hide private information with our blur tool
+      
+      Save and share:
+      - Login to get free cloud storage space
+      - Upload your snapshot to our storage in one click
+      - Or save it to your local folder and copy it to clipboard
+    </description>
     <projectUrl>http://monosnap.com</projectUrl>
     <tags>Monosnap screenshot</tags>
-    <copyright></copyright>
+    <copyright>Monosnap, 2012</copyright>
     <licenseUrl>http://en.wikipedia.org/wiki/Freeware</licenseUrl>
     <requireLicenseAcceptance>false</requireLicenseAcceptance>
     <!--<iconUrl>https://github.com/amatashkin/ChocolateyPackages/raw/master/Monosnap/Monosnap.gif</iconUrl>-->
