@@ -28,7 +28,7 @@
     <copyright>Monosnap, 2012</copyright>
     <licenseUrl>http://en.wikipedia.org/wiki/Freeware</licenseUrl>
     <requireLicenseAcceptance>false</requireLicenseAcceptance>
-    <!--<iconUrl>https://github.com/amatashkin/ChocolateyPackages/raw/master/Monosnap/Monosnap.gif</iconUrl>-->
+    <iconUrl>https://github.com/amatashkin/ChocolateyPackages/raw/master/Monosnap/Monosnap.png</iconUrl>
     <!--<dependencies>
       <dependency id="" version="" />
     </dependencies>-->
