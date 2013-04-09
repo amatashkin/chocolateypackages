@@ -1,0 +1,38 @@
+<?xml version="1.0"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2010/07/nuspec.xsd">
+  <metadata>
+    <id>KindleGen</id>
+    <title>KindleGen</title>
+    <version>2.8</version>
+    <authors>Amazon</authors>
+    <owners>Alexey Matashkin</owners>
+    <summary>KindleGen is a command line tool to convert files to the Kindle format.</summary>
+    <description>
+      KindleGen is a command line tool which enables publishers to work in an automated environment with a variety of source content including HTML, XHTML or EPUB. KindleGen converts this source content to a single file which supports both KF8 and Mobi formats enabling publishers to create great-looking books that work on all Kindle devices and apps.
+
+      KindleGen is officially supported by Amazon to convert files to the Kindle format. We recommend you use KindleGen to create content that is compatible with all Kindle devices and apps. Files created with third-party software may not work properly on current or future Kindle devices and apps. 
+
+      Highlights of KindleGen functionality
+       Support for all KF8 functionality
+       Generates a single file supporting both KF8 and Mobi format
+       Support for multiple source formats including HTML, XHTML and EPUB
+
+      System Requirements
+       Windows XP, Vista or 7
+    </description>
+    <projectUrl>http://www.amazon.com/kindleformat/kindlegen</projectUrl>
+    <tags>KindleGen</tags>
+    <copyright>Amazon</copyright>
+    <licenseUrl>http://www.amazon.com/gp/feature.html?docId=1000599251</licenseUrl>
+    <requireLicenseAcceptance>true</requireLicenseAcceptance>
+    <!--<iconUrl>https://github.com/amatashkin/chocolateypackages/raw/master/KindleGen/KindleGen.gif</iconUrl>-->
+    <!--<dependencies>
+      <dependency id="" version="" />
+    </dependencies>-->
+    <releaseNotes></releaseNotes>
+  </metadata>
+  <files>
+    <file src="tools\**" target="tools" />
+    <!--<file src="content\**" target="content" />-->
+  </files>
+</package>
