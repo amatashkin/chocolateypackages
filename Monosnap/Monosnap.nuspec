@@ -3,7 +3,7 @@
   <metadata>
     <id>Monosnap</id>
     <title>Monosnap</title>
-    <version>1.2.1.0</version>
+    <version>2.3.21.20140702</version>
     <authors>Monosnap</authors>
     <owners>Alexey Matashkin</owners>
     <summary>Monosnap is a perfect screenshot tool for Windows</summary>
@@ -25,7 +25,7 @@
     </description>
     <projectUrl>http://monosnap.com</projectUrl>
     <tags>Monosnap screenshot</tags>
-    <copyright>Monosnap, 2012</copyright>
+    <copyright>Monosnap, 2014</copyright>
     <licenseUrl>http://en.wikipedia.org/wiki/Freeware</licenseUrl>
     <requireLicenseAcceptance>false</requireLicenseAcceptance>
     <iconUrl>https://github.com/amatashkin/ChocolateyPackages/raw/master/Monosnap/Monosnap.png</iconUrl>
